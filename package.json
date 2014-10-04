@@ -1,6 +1,6 @@
 {
   "name": "rutha-grunt-mongo-migrations",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rutha Grunt Tasks for mongo-migrate",
   "author": "Rogelio Morrell",
   "repository": {
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "grunt-shell": "^1.1.1",
-    "jit-grunt": "~0.7.0",
-    "load-grunt-config": "~0.11.0",
+    "jit-grunt": "~0.8.0",
+    "load-grunt-config": "~0.13.1",
     "mongo-migrate": "^0.1.0",
     "mongodb": "^1.4.18",
     "time-grunt": "~0.4.0"
